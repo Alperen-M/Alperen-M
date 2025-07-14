@@ -12,7 +12,7 @@
 -📫 How to reach me mengunogulalperen@gmail.com
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alperen-m&label=Profile%20views&color=0e75b6&style=flat" alt="alperen-m" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperen-m&show_icons=true&locale=en" alt="alperen-m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperen-m&" alt="alperen-m" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alperen-m&label=Profile%20views&color=0e75b6&style=flat" alt="alperen-m" /> </p>
