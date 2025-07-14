@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alperen Mengünoğul</h1>
 <h3 align="center">A passionate backend developer from Turkiye</h3>
 
+
+
+-🔭 I’m currently working on Backend Development
+
+-🌱 I’m currently learning Microsoft .Net
+
+-💬 Ask me about .Net
+
+-📫 How to reach me mengunogulalperen@gmail.com
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperen-m&label=Profile%20views&color=0e75b6&style=flat" alt="alperen-m" /> </p>
 
 <h3 align="left">Connect with me:</h3>
