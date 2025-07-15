@@ -7,7 +7,7 @@
 
 -🌱 I’m currently learning Microsoft .Net
 
--💬 Ask me about .Net
+-💬 Ask me about Microsoft .Net
 
 -📫 How to reach me mengunogulalperen@gmail.com
 
